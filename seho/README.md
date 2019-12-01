@@ -4,7 +4,7 @@
  Edge는 Vertex의 쌍 (v1, v2)와 같이 나타내고, 방향그래프에서 순서는 유의미하다 
  
  
-# 헷갈리는 그래프 관련 용어 정리
+## 헷갈리는 그래프 관련 용어 정리
 > `Adjacent` : 두 Vertex 간의 edge가 존재하는 것  
  `Reachable` : 두 Vertex 간의 path가 존재하는 것  
  
