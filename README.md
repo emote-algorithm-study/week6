@@ -11,5 +11,7 @@
 
 # 알고스팟 문제
 
+[DICTIONARY](https://algospot.com/judge/problem/read/DICTIONARY)
+
 # Next Meetup
 - 다음 회차 : 마지막?! 안돼애애애 알고리즘 존버해요 다같이@@@@@@
